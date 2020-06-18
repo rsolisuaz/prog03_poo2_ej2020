@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ClienteControlPeliculas XXXXXXXX</string>
+    <string name="texto_titulo">GUI Android Control Peliculas de XXXXXXX</string>
+    <string name="texto_usuarios">Usuarios</string>
+    <string name="texto_actores">Actores</string>
+    <string name="url_base">http://dff223a710d7.ngrok.io/ServidorControlPeliculas361772/webresources/</string>
+    <string name="mensaje_error_url_invalido">El URL introducido es inválido</string>
+    <string name="mensaje_error_url_incorrecto">El URL solicitado no fue encontrado o causó error en el servidor</string>
+    <string name="mensaje_error_io">Error de conexión al contactar al servicio</string>
+    <string name="mensaje_error_json">Los datos recibidos del servicio no tienen el formato correcto</string>
+    <string name="mensaje_error_no_hay_usuarios">El servicio no tiene usuarios registrados</string>
+    <string name="etiqueta_boton_agregar_usuario">Agregar Nuevo Usuario</string>
+    <string name="title_activity_detalle_usuario">Detalles del Usuario</string>
+    <string name="hint_nombre_usuario">Nombre(s) del Usuario</string>
+    <string name="hint_appaterno_usuario">Apellido Paterno</string>
+    <string name="hint_apmaterno_usuario">Apellido Materno</string>
+    <string name="hint_rfc_usuario">RFC a 10 o 13 caracteres</string>
+    <string name="hint_email_usuario">E-mail del usuario</string>
+    <string name="hint_calle_usuario">Calle y número</string>
+    <string name="hint_colonia_usuario">Colonia</string>
+    <string name="hint_codpostal_usuario">Código Postal a 5 dígitos</string>
+    <string name="hint_tel_usuario">Teléfono a 10 dígitos</string>
+    <string name="hint_entidad_usuario">ID Entidad Usuario</string>
+    <string name="hint_mun_usuario">ID Municipio Usuario</string>
+    <string name="etiqueta_boton_eliminar">Eliminar Usuario</string>
+    <string name="etiqueta_boton_guardar">Guardar Cambios</string>
+    <string name="etiqueta_boton_regresar">Regresar a Lista</string>
+    <string name="etiqueta_boton_guardar_nuevo">Guardar Nuevo</string>
+    <string name="titulo_confirmacion_eliminar">Confirmación de Eliminación</string>
+    <string name="mensaje_confirmacion_eliminar">¿Estás seguro de querer eliminar el usuario seleccionado?</string>
+    <string name="titulo_opcion_si">Sí</string>
+    <string name="titulo_opcion_no">No</string>
+    <string name="mensaje_error_campos">¡Los campos Nombre, Ap Paterno, RFC, Teléfono y Email son obligatorios!</string>
+    <string name="mensaje_exito_operacion">¡Operación solicitada aplicada exitosamente!</string>
+    <string name="mensaje_error_operacion">¡Operación solicitada no se pudo realizar!</string>
+    <string name="texto_cerrar">Cerrar</string>
+</resources>
