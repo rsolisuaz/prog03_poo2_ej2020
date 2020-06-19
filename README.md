@@ -10,7 +10,7 @@ Para poder ejecutar el programa exitosamente debe estar corriendo su servicio RE
 esos elementos, y después una vez corriendo, determine la dirección IP que tiene su computadora y use tal dirección en lugar de localhost en
 el URL del servicio, modifique el string url_base en strings.xml para que contenga la dirección correcta.
 Así, si por ejemplo su computadores tiene la dirección IP 192.10.2.201 por ejemplo, entonces el URL base tiene el siguiente formato:
-http://192.10.2.201/ServidorControlPeliculasXXXXXXX/webresources/
+http://192.10.2.201:8080/ServidorControlPeliculasXXXXXXX/webresources/
 
 Recuerde que las XXXXXXX se sustituyen por su matricula, la diagonal final en el URL base debe incluirse en el string.
 
